@@ -5,3 +5,6 @@ booleanos=[True,False,True]
 combinados= [True, 1, 'a', 3, "asd"]
 
 print(combinados[0])
+for i in range(10):
+    print(i)
+    
