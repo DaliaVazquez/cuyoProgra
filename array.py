@@ -5,6 +5,8 @@ booleanos=[True,False,True]
 combinados= [True, 1, 'a', 3, "asd"]
 
 print(combinados[0])
-for i in range(10):
+sum=0
+for i in range(1,51):
     print(i)
-    
+    sum += i
+print(sum)
